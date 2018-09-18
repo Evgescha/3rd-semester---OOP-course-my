@@ -1,0 +1,36 @@
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\AnimeBase.accdb
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form3.resources
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form4_AnimeProfil.resources
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form4_newAnime.resources
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form5_admin.resources
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+E:\My Documents\Kursa4\Kursa4 v4.0 -графика + отдельная админка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\AnimeBase.accdb
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form2.resources
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form3.resources
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form4_AnimeProfil.resources
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form4_newAnime.resources
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form5_admin.resources
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form6_RedBD.resources
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form7_stat.resources
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.manifest
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.application
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe.manifest
+E:\My Documents\Kursa4\Kursa4 v5.0 - Final\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.application
